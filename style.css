@@ -1,0 +1,45 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: sans-serif;
+}
+.index{
+    background-color: rgb(25, 105, 89);
+}
+.judul{
+    color: white;
+    text-align: center;
+}
+.daftar{
+    text-align: center;
+    margin: 20px;
+}
+.flag{
+    width: 120px;
+    height: 80px;
+
+}
+.kelas{
+    background-color: #68CEE5;
+    background-size: cover;
+    color: #fff; 
+}
+h1{
+
+    text-align: center;
+    margin-top: 80px;
+}
+ul li{
+    display: inline-block;
+    border: 3px solid;
+    padding: 20px 30px;
+    margin-top: 30px;
+    border-radius: 5%;
+
+    
+}
+.geser{
+    margin-left: 470px;
+}
+
+
